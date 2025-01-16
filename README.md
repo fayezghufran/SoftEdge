@@ -41,7 +41,7 @@ Follow these instructions to set up the project locally:
    npm run dev  
 
 ## 🌐 Live Demo
-heck out the live version here.(https://soft-edge-gamma.vercel.app/)
+check out the live version here. https://soft-edge-gamma.vercel.app/
 
 ## 📬 Contact
 Feel free to reach out via:
